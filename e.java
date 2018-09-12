@@ -1,0 +1,1 @@
+print goof or bad
