@@ -1,2 +1,2 @@
-System,Out.println("welcome to java")
+System,Out.println("welcome Mr to java")
 
